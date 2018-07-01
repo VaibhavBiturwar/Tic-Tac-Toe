@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528125061 source:f:\code block library\c++\tictactoe\game\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<time.h>
+
